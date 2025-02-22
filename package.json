@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "pixelcraft-md",
   "version": "4.4.4",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "pixelcraft-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "PIDUSAGE_SILENT=true pm2 start . --attach --name hermit-md"
+    "start": "PIDUSAGE_SILENT=true pm2 start . --attach --name pixelcraft-md"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "cupri",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "https://github.com/A-d-i-t-h-y-a-n/Baileys.js",
