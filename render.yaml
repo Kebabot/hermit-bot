@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hermit-md
+    name: pixelcraft-md
     repo: https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
     branch: main
     env: docker
